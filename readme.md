@@ -3,7 +3,8 @@ Auto reff cult
 ```
 npm install axios
 npm install ethers
-npm install redline
+npm install redline fs
+node cult.js
 ```
 
 
