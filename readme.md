@@ -1,5 +1,12 @@
 Auto reff cult
 
 ```
-gitclone
+npm install axios
+npm install ethers
+npm install redline
+```
+
+
+```
+gitclone https://github.com/notzoee3/Cult-auto-reff.git
 ```
