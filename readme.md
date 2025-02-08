@@ -8,5 +8,5 @@ npm install redline
 
 
 ```
-gitclone https://github.com/notzoee3/Cult-auto-reff.git
+git clone https://github.com/notzoee3/Cult-auto-reff.git
 ```
