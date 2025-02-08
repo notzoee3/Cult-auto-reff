@@ -2,7 +2,7 @@ const ethers = require('ethers');
 const axios = require('axios');
 const readline = require('readline');
 
-const DEFAULT_REF_CODE = 'uzja5f4s5yb1';
+const DEFAULT_REF_CODE = 'u386fz4uqwlq';
 const API_BASE_URL = 'https://cult-api.ippcoin.com';
 const MAX_RETRIES = 3;
 const RETRY_DELAY = 2000;
