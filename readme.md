@@ -6,6 +6,8 @@
 ```
 git clone https://github.com/notzoee3/Cult-auto-reff.git
 ```
+### JANGAN GALAK-GALAK KASIAN SERVER
+
 # Installation 
 ```
 npm install axios
