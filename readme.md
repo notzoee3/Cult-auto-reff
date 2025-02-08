@@ -1,6 +1,6 @@
 # Auto reff cult
 
-# [WebsiteCult](http://cult.world?r=u386fz4uqwlq)
+[WebsiteCult](http://cult.world?r=u386fz4uqwlq)
 
 
 ```
